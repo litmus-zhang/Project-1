@@ -10,6 +10,10 @@ cd Project-1
 ### Install dependencies
 yarn install
 
+### Install Frontend dependencies(only needed if you want to view or work on the frontend)
+cd client
+yarn install
+
 ## Pull latest changes and push changes to repo
 
 ### Always pull before making changes
