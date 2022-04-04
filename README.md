@@ -14,7 +14,7 @@ git pull origin
 git push origin
 
 
-## Scrips
+## Scripts
 ### To run local blockchain
 yarn node
 
