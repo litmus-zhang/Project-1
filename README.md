@@ -13,3 +13,10 @@ git pull origin
 ### Push to the repo
 git push origin
 
+
+## Scrips
+### To run local blockchain
+yarn node
+
+### To deploy(to localhost)
+yarn deploy
