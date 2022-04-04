@@ -12,9 +12,10 @@ yarn install
 
 ### Install Frontend dependencies(only needed if you want to view or work on the frontend)
 cd client
+
 yarn install
 
-## Pull latest changes and push changes to repo
+## Pull latest changes and push changes to repo(make sure your in Project-1 directory)
 
 ### Always pull before making changes
 git pull origin
@@ -23,7 +24,7 @@ git pull origin
 git push origin
 
 
-## Scripts
+## Scripts(make sure your in Project-1 directory)
 ### To run local blockchain
 yarn node
 
@@ -32,4 +33,5 @@ yarn deploy
 
 ### to start frontend app
 cd client
+
 yarn start
