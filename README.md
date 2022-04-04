@@ -1,5 +1,4 @@
-# Project-1
-## How to contribute
+# How to contribute
 
 ### Clone the repo
 git clone -b development https://github.com/Team-Nebula-blockgames/Project-1
@@ -15,7 +14,7 @@ cd client
 
 yarn install
 
-## Pull latest changes and push changes to repo(make sure your in Project-1 directory)
+# Pull latest changes and push changes to repo(make sure your in Project-1 directory)
 
 ### Always pull before making changes
 git pull origin
@@ -24,7 +23,7 @@ git pull origin
 git push origin
 
 
-## Scripts(make sure your in Project-1 directory)
+# Scripts(make sure your in Project-1 directory)
 ### To run local blockchain
 yarn node
 
