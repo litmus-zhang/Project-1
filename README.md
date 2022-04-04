@@ -2,7 +2,7 @@
 ## How to contribute
 
 ### Clone the repo
-git clone https://github.com/Team-Nebula-blockgames/Project-1
+git clone -b development https://github.com/Team-Nebula-blockgames/Project-1
 
 ### Always pull before making changes
 git pull upstream development
