@@ -30,7 +30,7 @@ function SideBar(props) {
           paddingLeft: "24px",
         }}
       >
-        General
+        GENERAL
       </Typography>
       <SideBarItem text={"Dashboard"} icon={<DashBoard />} />
       <SideBarItem text={"Tickets"} icon={<Tickets />} />
@@ -46,7 +46,7 @@ function SideBar(props) {
           paddingLeft: "24px",
         }}
       >
-        General
+        ADMIN
       </Typography>
       <SideBarItem text={"Admins"} icon={<Person />} />
       <SideBarItem text={"Notification"} icon={<Bell />} />
